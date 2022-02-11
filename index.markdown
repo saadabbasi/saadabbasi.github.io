@@ -31,7 +31,7 @@ srabbasi [at] uwaterloo [dot] ca
 
 ## Research Expierence
 
-<img src="assets/MAPLE_overview.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/MAPLE_overview.png" height="105" style="float:left; margin:5px 25px 0px 30px">
 
 - **MAPLE: Microprocessor A Priori for Latency Estimation**<br/>
 Saad Abbasi, Alexander Wong, Javad Shafiee, <br/>
