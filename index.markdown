@@ -32,21 +32,21 @@ srabbasi [at] uwaterloo [dot] ca
 ## Research Expierence
 Please see my [google scholar](https://scholar.google.com/citations?user=HkNlM6oAAAAJ&hl=en&oi=ao) for full list of publications.
 
-<img src="assets/MAPLE_overview.png" width="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/MAPLE_overview.png" width="100" style="float:left; margin:5px 25px 0px 30px">
 
 - **MAPLE: Microprocessor A Priori for Latency Estimation**<br/>
 Saad Abbasi, Alexander Wong, Javad Shafiee, <br/>
 NewInML Workshop at NIPS, 2021 <br/>
 [html](https://arxiv.org/abs/2111.15106), [pdf](https://arxiv.org/pdf/2111.15106.pdf), [poster](assets/MAPLE_Poster.pdf)
 
-<img src="assets/outliernets.webp" width="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/outliernets.webp" width="100" style="float:left; margin:5px 25px 0px 30px">
 
 - **OutlierNets: Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection**<br/>
 Saad Abbasi, Mahmoud Famouri, Javad Shafiee, Alexander Wong<br/>
 Sensors, 2021 <br/>
 [html](https://www.mdpi.com/1424-8220/21/14/4805), [pdf](https://www.mdpi.com/1424-8220/21/14/4805/pdf)
 
-<img src="assets/outliernets.webp" width="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/outliernets.webp" width="100" style="float:left; margin:5px 25px 0px 30px">
 
 - **Does Form Follow Function? An Empirical Exploration of the Impact of Deep Neural Network Architecture Design on Hardware-specific Acceleration**<br/>
 Saad Abbasi, Javad Shafiee, Ellick Chan, Alexander Wong<br/>
@@ -54,6 +54,9 @@ TinyML Research Symposium, Burlingame, USA. March 2021 <br/>
 [html](https://arxiv.org/abs/2107.04144), [pdf](https://arxiv.org/pdf/2107.04144), [reviews](https://openreview.net/forum?id=-iuG__7I9QE)
 
 ## Patents
+
+<img src="assets/patent.png" width="100" style="float:left; margin:5px 25px 0px 30px">
+
 - **PARS Imaging Methods**
-Parsin HajiReza, Zohreh Hosseinaee,  Kevan Bell, Saad Abbasi, Benjamin Eccelstone
+Parsin HajiReza, Zohreh Hosseinaee, Kevan Bell, Saad Abbasi, Benjamin Eccelstone
 US Patent App. 11/122,978, 2021
