@@ -59,3 +59,6 @@ TinyML Research Symposium, Burlingame, USA. March 2021 <br/>
 Saad Abbasi, Kevan Bell, Benjamin Ecclestone, Parsin HajiReza<br/>
 Quant Imaging Med Surg, 2020 <br/>
 [html](https://qims.amegroups.com/article/view/54005/html), [pdf](https://qims.amegroups.com/article/download/54005/pdf)
+
+## Patents
+Parsin HajiReza, Zohreh Hosseinaee,  Kevan Bell, Saad Abbasi, Benjamin Eccelstone “PARS imaging methods”, US Patent App. 11/122,978, 2021
