@@ -57,6 +57,6 @@ TinyML Research Symposium, Burlingame, USA. March 2021 <br/>
 
 <img src="assets/patent.png" width="100" style="float:left; margin:5px 25px 0px 30px">
 
-- **PARS Imaging Methods**
+- **PARS Imaging Methods**<br/>
 Parsin HajiReza, Zohreh Hosseinaee, Kevan Bell, Saad Abbasi, Benjamin Eccelstone
 US Patent App. 11/122,978, 2021
