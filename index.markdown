@@ -53,7 +53,7 @@ Saad Abbasi, Javad Shafiee, Ellick Chan, Alexander Wong<br/>
 TinyML Research Symposium, Burlingame, USA. March 2021 <br/>
 [html](https://arxiv.org/abs/2107.04144), [pdf](https://arxiv.org/pdf/2107.04144), [reviews](https://openreview.net/forum?id=-iuG__7I9QE)
 
-<img src="assets/realtime.png" width="85" style="float:left; margin:5px 25px 0px 30px">
-
 ## Patents
-Parsin HajiReza, Zohreh Hosseinaee,  Kevan Bell, Saad Abbasi, Benjamin Eccelstone “PARS imaging methods”, US Patent App. 11/122,978, 2021
+- **PARS Imaging Methods**
+Parsin HajiReza, Zohreh Hosseinaee,  Kevan Bell, Saad Abbasi, Benjamin Eccelstone
+US Patent App. 11/122,978, 2021
