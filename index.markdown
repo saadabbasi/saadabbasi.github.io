@@ -26,3 +26,17 @@ srabbasi [at] uwaterloo [dot] ca
 <img src="assets/scholar.png" height="45" style="float:top; margin:5px"></a>
 <a href="https://www.linkedin.com/in/saad-abbasi-4bb54663/">
 <img src="assets/linkedin.png" height="45" style="float:top; margin:5px"></a>
+
+## News
+
+
+## Talks
+
+## Publications
+
+<img src="assets/outliernets.webp" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **OutlierNets: Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection.**<br/>
+Saad Abbasi, Mahmoud Famouri, Javad Shafiee, Alexander Wong<br/>
+Sensors, 2021 <br/>
+[html](https://www.mdpi.com/1424-8220/21/14/4805), [pdf](https://www.mdpi.com/1424-8220/21/14/4805/pdf)
