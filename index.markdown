@@ -40,6 +40,7 @@ NewInML Workshop at NIPS, 2021 <br/>
 
 <img src="assets/outliernets.webp" height="85" style="float:left; margin:5px 25px 0px 30px">
 
+
 - **OutlierNets: Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection.**<br/>
 Saad Abbasi, Mahmoud Famouri, Javad Shafiee, Alexander Wong<br/>
 Sensors, 2021 <br/>
