@@ -29,7 +29,7 @@ srabbasi [at] uwaterloo [dot] ca
 
 ## News
 
-## Research Expierence
+## Selected Publications
 Please see my [google scholar](https://scholar.google.com/citations?user=HkNlM6oAAAAJ&hl=en&oi=ao) for full list of publications.
 
 <img src="assets/MAPLE_overview.png" width="100" style="float:left; margin:5px 25px 0px 30px">
