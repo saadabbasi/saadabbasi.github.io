@@ -40,7 +40,6 @@ NewInML Workshop at NIPS, 2021 <br/>
 
 <img src="assets/outliernets.webp" width="85" style="float:left; margin:5px 25px 0px 30px">
 
-
 - **OutlierNets: Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection.**<br/>
 Saad Abbasi, Mahmoud Famouri, Javad Shafiee, Alexander Wong<br/>
 Sensors, 2021 <br/>
@@ -59,5 +58,3 @@ TinyML Research Symposium, Burlingame, USA. March 2021 <br/>
 Saad Abbasi, Kevan Bell, Benjamin Ecclestone, Parsin HajiReza<br/>
 Quant Imaging Med Surg, 2020 <br/>
 [html](https://qims.amegroups.com/article/view/54005/html), [pdf](https://qims.amegroups.com/article/download/54005/pdf)
-
-<img src="assets/outliernets.webp" width="85" style="float:left; margin:5px 25px 0px 30px">
