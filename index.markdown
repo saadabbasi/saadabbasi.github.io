@@ -26,12 +26,8 @@ I previously worked professionally as an embedded hardware/software engineer and
 srabbasi [at] uwaterloo [dot] ca
 
 <a href="https://github.com/saadabbasi/">
-<img src="assets/github.png" height="45" style="float:top; margin:5px"></a>
+<img src="assets/GitHub-Mark-120px-plus.png" height="45" style="float:top; margin:5px"></a>
 <a href="https://scholar.google.com/citations?user=HkNlM6oAAAAJ&hl=en&oi=ao">
 <img src="assets/scholar.png" height="45" style="float:top; margin:5px"></a>
-<a href="https://www.linkedin.com/in/boris-knyazev-39690948/">
+<a href="https://www.linkedin.com/in/saad-abbasi-4bb54663/">
 <img src="assets/linkedin.png" height="45" style="float:top; margin:5px"></a>
-<a href="https://twitter.com/BorisAKnyazev">
-<img src="assets/twitter.png" height="45" style="float:top; margin:5px"></a>
-<a href="https://medium.com/@BorisAKnyazev">
-<img src="assets/medium.png" height="45" style="float:top; margin:5px"></a>
