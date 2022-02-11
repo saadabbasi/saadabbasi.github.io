@@ -55,10 +55,5 @@ TinyML Research Symposium, Burlingame, USA. March 2021 <br/>
 
 <img src="assets/realtime.png" width="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Live feedback and 3D photoacoustic remote sensing**<br/>
-Saad Abbasi, Kevan Bell, Benjamin Ecclestone, Parsin HajiReza<br/>
-Quant Imaging Med Surg, 2020 <br/>
-[html](https://qims.amegroups.com/article/view/54005/html), [pdf](https://qims.amegroups.com/article/download/54005/pdf)
-
 ## Patents
 Parsin HajiReza, Zohreh Hosseinaee,  Kevan Bell, Saad Abbasi, Benjamin Eccelstone “PARS imaging methods”, US Patent App. 11/122,978, 2021
