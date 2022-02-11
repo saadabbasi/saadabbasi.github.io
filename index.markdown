@@ -31,14 +31,14 @@ srabbasi [at] uwaterloo [dot] ca
 
 ## Research Expierence
 
-<img src="assets/MAPLE_overview.png" height="105" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/MAPLE_overview.png" width="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **MAPLE: Microprocessor A Priori for Latency Estimation**<br/>
 Saad Abbasi, Alexander Wong, Javad Shafiee, <br/>
 NewInML Workshop at NIPS, 2021 <br/>
 [html](https://arxiv.org/abs/2111.15106), [pdf](https://arxiv.org/pdf/2111.15106.pdf), [poster](assets/MAPLE_Poster.pdf)
 
-<img src="assets/outliernets.webp" height="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/outliernets.webp" width="85" style="float:left; margin:5px 25px 0px 30px">
 
 
 - **OutlierNets: Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection.**<br/>
@@ -46,7 +46,7 @@ Saad Abbasi, Mahmoud Famouri, Javad Shafiee, Alexander Wong<br/>
 Sensors, 2021 <br/>
 [html](https://www.mdpi.com/1424-8220/21/14/4805), [pdf](https://www.mdpi.com/1424-8220/21/14/4805/pdf)
 
-<img src="assets/outliernets.webp" height="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/outliernets.webp" width="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Does Form Follow Function? An Empirical Exploration of the Impact of Deep Neural Network Architecture Design on Hardware-specific Acceleration**<br/>
 Saad Abbasi, Javad Shafiee, Ellick Chan, Alexander Wong<br/>
