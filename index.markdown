@@ -29,7 +29,7 @@ srabbasi [at] uwaterloo [dot] ca
 
 ## News
 
-## Publications
+## Research Expierence
 
 <img src="assets/MAPLE_overview.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -44,3 +44,11 @@ NewInML Workshop at NIPS, 2021 <br/>
 Saad Abbasi, Mahmoud Famouri, Javad Shafiee, Alexander Wong<br/>
 Sensors, 2021 <br/>
 [html](https://www.mdpi.com/1424-8220/21/14/4805), [pdf](https://www.mdpi.com/1424-8220/21/14/4805/pdf)
+
+<img src="assets/outliernets.webp" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Does Form Follow Function? An Empirical Exploration of the Impact of Deep Neural Network Architecture Design on Hardware-specific Acceleration**<br/>
+Saad Abbasi, Javad Shafiee, Ellick Chan, Alexander Wong<br/>
+TinyML Research Symposium, Burlingame, USA. March 2021 <br/>
+[html](https://arxiv.org/abs/2107.04144), [pdf](https://arxiv.org/pdf/2107.04144), [reviews](https://openreview.net/forum?id=-iuG__7I9QE)
+
