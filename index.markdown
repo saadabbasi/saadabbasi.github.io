@@ -31,12 +31,14 @@ srabbasi [at] uwaterloo [dot] ca
 
 ## Publications
 
-<img src="assets/MAPLE_overview.pdf" height="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/MAPLE_overview.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **MAPLE: Microprocessor A Priori for Latency Estimation**<br/>
 Saad Abbasi, Alexander Wong, Javad Shafiee, <br/>
 NewInML Workshop at NIPS, 2021 <br/>
 [html](https://arxiv.org/abs/2111.15106), [pdf](https://arxiv.org/pdf/2111.15106.pdf), [poster](assets/MAPLE_Poster.pdf)
+
+<img src="assets/outliernets.webp" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **OutlierNets: Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection.**<br/>
 Saad Abbasi, Mahmoud Famouri, Javad Shafiee, Alexander Wong<br/>
