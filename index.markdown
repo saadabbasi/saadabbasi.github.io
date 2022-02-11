@@ -13,7 +13,7 @@ title: Saad Abbasi
 
 <img src="assets/me.jpeg" height="160" style="float:right; margin:5px 25px 5px 5px">
 
-I am a 2nd year Ph.D. student at the [Vision & Image Processing Lab](https://uwaterloo.ca/vision-image-processing-lab/) at the [University of Waterloo](https://uwaterloo.ca/). My research interests lie at the intersection of neural architecture search and latency estimation. In particular, I research and develop techniques to automatically discover efficient hardware-specific neural network architectures. I also bring forth significant optics experience which I gained during my Masters degree. My Masters degree revolved around developing a laser-based microscope for histopathology, real-time imaging and point image reconstruction.
+I am a 2nd year Ph.D. student at the [Vision & Image Processing Lab](https://uwaterloo.ca/vision-image-processing-lab/) at the [University of Waterloo](https://uwaterloo.ca/). My research interests lie at the intersection of **neural architecture search** and **latency estimation**. In particular, I research and develop techniques to automatically discover efficient **hardware-specific neural network architectures**. I also bring forth significant optics experience which I gained during my Masters degree. My Masters degree revolved around developing a laser-based microscope for histopathology, real-time imaging and point image reconstruction.
 
 I previously worked professionally as an embedded hardware/software engineer and transitioned to developing machine-vision based inspection systems. Please see my [CV](assets/CV.pdf) for my full background.
 
