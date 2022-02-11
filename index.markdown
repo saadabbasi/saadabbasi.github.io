@@ -53,3 +53,11 @@ Saad Abbasi, Javad Shafiee, Ellick Chan, Alexander Wong<br/>
 TinyML Research Symposium, Burlingame, USA. March 2021 <br/>
 [html](https://arxiv.org/abs/2107.04144), [pdf](https://arxiv.org/pdf/2107.04144), [reviews](https://openreview.net/forum?id=-iuG__7I9QE)
 
+<img src="assets/realtime.png" width="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Live feedback and 3D photoacoustic remote sensing**<br/>
+Saad Abbasi, Kevan Bell, Benjamin Ecclestone, Parsin HajiReza<br/>
+Quant Imaging Med Surg, 2020 <br/>
+[html](https://qims.amegroups.com/article/view/54005/html), [pdf](https://qims.amegroups.com/article/download/54005/pdf)
+
+<img src="assets/outliernets.webp" width="85" style="float:left; margin:5px 25px 0px 30px">
