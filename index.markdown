@@ -15,7 +15,7 @@ title: Saad Abbasi
 
 I am a Ph.D. student at the [Vision & Image Processing Lab](https://uwaterloo.ca/vision-image-processing-lab/) at the University of Waterloo. My research interests lie at the intersection of neural architecture search and latency estimation. In particular, I research and develop techniques to automatically discover efficient hardware-specific neural network architectures. I also bring forth significant optics experience which I gained during my Masters degree. My Masters degree revolved around developing a laser-based microscope for histopathology, real-time imaging and point image reconstruction.
 
-I previously worked professionally as an embedded hardware/software engineer and transitioned to developing machine-vision based inspection systems. Please see my CV for my full breadth of expierence.
+I previously worked professionally as an embedded hardware/software engineer and transitioned to developing machine-vision based inspection systems. Please see my [CV](assets/CV.pdf) for my full background.
 
 
 srabbasi [at] uwaterloo [dot] ca
