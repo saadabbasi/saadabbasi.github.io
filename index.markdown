@@ -46,7 +46,7 @@ Saad Abbasi, Mahmoud Famouri, Javad Shafiee, Alexander Wong<br/>
 Sensors, 2021 <br/>
 [html](https://www.mdpi.com/1424-8220/21/14/4805), [pdf](https://www.mdpi.com/1424-8220/21/14/4805/pdf)
 
-<img src="assets/outliernets.webp" width="100" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/form.png" width="100" style="float:left; margin:5px 25px 0px 30px">
 
 - **Does Form Follow Function? An Empirical Exploration of the Impact of Deep Neural Network Architecture Design on Hardware-specific Acceleration**<br/>
 Saad Abbasi, Javad Shafiee, Ellick Chan, Alexander Wong<br/>
